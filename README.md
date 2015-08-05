@@ -3,4 +3,5 @@ Publisher-facing public information about FanServ SDK along with latest download
 
 [Download latest SDK]
 
-[Installation Instructions](https://github.com/fanserv/FanServSDK/wiki/installation)
+[Installation Instructions for Objective-C projects](https://github.com/fanserv/FanServSDK/wiki/installation)
+[Installation Instructions for Swift projects](https://github.com/fanserv/FanServSDK/wiki/Installation-Swift)
