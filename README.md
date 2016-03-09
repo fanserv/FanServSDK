@@ -20,4 +20,7 @@ It uses new data format to access updated API and works with MRAID video ads.
 
 * [Installation Instructions for version SDK v2.1 for Swift projects](https://github.com/fanserv/FanServSDK/wiki/Installation-instructions-for-SDK_v2.1-(Swift))
 
+
+### MoPub integration
+
 * [MoPub integration instructions](https://github.com/fanserv/FanServSDK/wiki/MoPub-integration-instructions)
